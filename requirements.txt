@@ -1,0 +1,8 @@
+EbookLib==0.17.1
+console_progressbar==1.1.2
+colorama==0.4.3
+selenium==3.141.0
+requests==2.24.0
+beautifulsoup4==4.9.1
+fpdf==1.7.2
+Pillow==7.2.0
